@@ -37,3 +37,8 @@ THEN they download the web application as an icon on their desktop
 THEN they should have a registered service worker using workbox
 - WHEN the user has registered a service worker
 THEN they should have the static assets pre cached upon loading along with subsequent pages and static assets
+
+# Screenshot of application offline:
+
+![Screenshot 2023-08-20 151551](https://github.com/AJosueBN/text-editor-challenge/assets/129113539/b792834e-e572-43e3-bc28-a89d394d1d30)
+
