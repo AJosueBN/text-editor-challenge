@@ -17,7 +17,7 @@ GIVEN a text editor web application:
 
 - WHEN the user opens the application in their editor
 THEN they should see a client server folder structure
-- WHEN the user runs `npm run build` and after `npm run start` from the root directory
+- WHEN the user first installs the dependencies for application `npm run install`, then runs `npm run build` and after `npm run start` from the root directory
 THEN they find that the application should start up the backend and serve the client 
 - WHEN the user runs the text editor application from my terminal
 THEN they find that the JavaScript files have been bundled using webpack
@@ -38,7 +38,9 @@ THEN they should have a registered service worker using workbox
 - WHEN the user has registered a service worker
 THEN they should have the static assets pre cached upon loading along with subsequent pages and static assets
 
-# Screenshot of application offline:
+# Screenshot of application locally:
 
 ![Screenshot 2023-08-20 151551](https://github.com/AJosueBN/text-editor-challenge/assets/129113539/b792834e-e572-43e3-bc28-a89d394d1d30)
+
+# Link to deployed application
 
