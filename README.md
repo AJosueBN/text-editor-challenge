@@ -15,7 +15,7 @@ Technologies involved in this project include:
 
 GIVEN a text editor web application:
 
--WHEN the user opens the application in their editor
+- WHEN the user opens the application in their editor
 THEN they should see a client server folder structure
 - WHEN the user runs `npm run build` and after `npm run start` from the root directory
 THEN they find that the application should start up the backend and serve the client 
