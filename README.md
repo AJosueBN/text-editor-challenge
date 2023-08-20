@@ -42,5 +42,7 @@ THEN they should have the static assets pre cached upon loading along with subse
 
 ![Screenshot 2023-08-20 151551](https://github.com/AJosueBN/text-editor-challenge/assets/129113539/b792834e-e572-43e3-bc28-a89d394d1d30)
 
-# Link to deployed application
+# Link to deployed application:
+
+https://pwa-text-editing-19-613d01675a8d.herokuapp.com
 
